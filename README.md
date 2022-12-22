@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <picture><img src = "https://cdn.discordapp.com/attachments/1003898685656141954/1055352676059201627/122222-profile-avatar-for-child.gif" width = 50px></picture> **About me**
+## 👨🏻‍💻 **About me**
 
 <picture> <img align="right" src="https://cdn.discordapp.com/attachments/1003898685656141954/1055351750246273044/99312-developer-skills.gif" width = 250px></picture>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect </b>
+## 🫱🏻‍🫲🏻 <b> Connect </b>
 <br>
 
 <div style="display: flex; justify-content: space-evenly">
