@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CopsGit&count_private=true&show_icons=true&theme=dracula&hide=prs" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CopsGit&count_private=true&show_icons=true&theme=dracula&hide=prs" width="55%"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopsGit&layout=compact&show_icons=true&theme=dracula" height = 161.5px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopsGit&layout=compact&show_icons=true&theme=dracula" width="40%"/>
 </a>
 
 </div>
