@@ -52,25 +52,25 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-evenly">
 
 <a href="https://www.linkedin.com/in/qi-zhou-232a95251/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Qi Z.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Qi Z.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 <br>
 
 <a href="mailto:kenny99qi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GitHub Qi Z.-100000?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub Qi Z.-100000?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 <br>
 
 <a href="mailto:kenny99qi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Qi Z.-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Qi Z.-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 <br>
 
 <a href="mailto:kenny99qi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/dev.to Qi Z.-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/dev.to Qi Z.-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" t=mail style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 </div>
