@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CopsGit&count_private=true&show_icons=true&theme=dracula&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CopsGit&count_private=true&show_icons=true&theme=dracula&hide=prs" width="95%"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopsGit&layout=compact&show_icons=true&theme=dracula" height = 170px/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopsGit&layout=compact&show_icons=true&theme=dracula" height = 161.5px/>
 </a>
 
 </div>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect </b>
 <br>
 
-<div>
+<div style="display: flex; justify-content: space-evenly">
 
 <a href="https://www.linkedin.com/in/qi-zhou-232a95251/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Qi Z.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
