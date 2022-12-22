@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="mailto:kenny99qi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GitHub Qi Z.-100000?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" width="20%"/>
+<a href="https://github.com/CopsGit" target="_blank">
+<img src="https://img.shields.io/badge/GitHub Qi Z.-100000?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 <br>
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="mailto:kenny99qi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/dev.to Qi Z.-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" t=mail style="margin-bottom: 5px;" width="20%"/>
+<a href="https://dev.to/luckey" target="_blank">
+<img src="https://img.shields.io/badge/dev.to Qi Z.-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt=dev style="margin-bottom: 5px;" width="20%"/>
 </a>
 
 </div>
