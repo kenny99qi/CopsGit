@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - I'm a full-stack web developer with a passion for creating beautiful and functional websites. 
 - Based in Montreal, Canada.
 - I'm currently looking for a full-time position as a full-stack developer.
-- [Personal website](https://0x007.me/) if interested.
 
 <br><br>
 
